@@ -5,4 +5,4 @@ Rust developer focused on learning & building DevOps tooling and CLI application
 "Less is bore"
     ~ Robert Venturi
 
-![Rust Version](https://shields.io)
+<img src="https://shields.io" alt="Rust" />
